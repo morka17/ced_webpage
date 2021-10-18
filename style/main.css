@@ -1,0 +1,14 @@
+#sub-hr{
+    width: 90%;
+}
+
+.card-center{
+    width: 100%;
+    align-self: center;
+    -ms-flex-align: center;
+}
+
+.about{
+    padding-top: 2rem;
+    align-self: flex-end;
+}
